@@ -1,0 +1,21 @@
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+*.manifest
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE & OS clutter
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
